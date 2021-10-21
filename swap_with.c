@@ -11,4 +11,6 @@ int main()
     a=b;
     b=t;
     printf("after swaping\na=%d\nb=%d\n",a,b);
+    
+    return 0;
 }
